@@ -1,3 +1,6 @@
+
+Adapted from https://github.com/limelights/todo-reflux
+
 Install frontend app with `npm install`
 Install backend with `pip install -r requirements.txt`
 
