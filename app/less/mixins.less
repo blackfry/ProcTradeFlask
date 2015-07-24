@@ -1,0 +1,23 @@
+.border-radius (@radius: 5px) {
+    -webkit-border-radius: @radius;
+       -moz-border-radius: @radius;
+            border-radius: @radius;
+}
+
+.box-shadow (@top: 0px, @left: 0px, @bottom: 0px, @right: 0px, @color: rgba(0,0,0,1)) {
+    -webkit-box-shadow: @top @left @bottom @right @color;
+       -moz-box-shadow: @top @left @bottom @right @color;
+            box-shadow: @top @left @bottom @right @color;
+}
+
+.box-shadow-inset (@top: 0px, @left: 0px, @bottom: 0px, @right: 0px, @color: rgba(0,0,0,1)) {
+    -webkit-box-shadow: inset @top @left @bottom @right @color;
+       -moz-box-shadow: inset @top @left @bottom @right @color;
+            box-shadow: inset @top @left @bottom @right @color;
+}
+
+.mobile-layout(@rules) {
+    @media screen and (max-width: 480px) {
+        @rules();
+    }
+}

@@ -1,0 +1,12 @@
+html {
+  font-family: sans-serif;
+  -webkit-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+}
+body {
+  background: url(https://www.colourbox.com/preview/5702688-stock-market-chart.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 130%;
+
+}

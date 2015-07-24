@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2015 by original authors @ fontello.com</metadata>
+<defs>
+<font id="fontello" horiz-adv-x="1000" >
+<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="ok" unicode="&#xe800;" d="m1179 778q-250-222-600-750l-115-179q-144 180-464 500l107 107 286-250q150 150 279 272t206 187 131 111 77 59l21 14q4 0 11-2t26-19 35-50z" horiz-adv-x="1179" />
+<glyph glyph-name="trash" unicode="&#xe801;" d="m769 739c24 0 45-20 45-45s-21-45-45-45l-6 0-135-688-438 0-134 688-11 0c-25 0-45 20-45 45s20 45 45 45l724 0z m-396-107l-19 17-118 0-18-17 77-78z m-194-258l25-129 60 60-78 77z m39 40l77-77 78 77-78 76z m186-32l-76-77 76-77 77 77z m32 32l77-77 77 77-77 76z m-32 31l77 78-77 76-76-76z m-218 154l-43-42 17-85 26-27 78 78z m109-326l-77-78 77-76 78 76z m109-109l-76-77 57-58 38 0 58 58z m109-45l77 76-77 78-77-78z m100 118l25 128-17 17-76-77z m48 247l13 64-53 51-76-76 76-78z m-71 148l-19 17-117 0-18-17 77-78z m-457-23l40 40-48 0z m96-487l17-93 75 0z m364 12l-107-105 85 0z m91 468l10 47-59 0z" horiz-adv-x="814" />
+</font>
+</defs>
+</svg>
